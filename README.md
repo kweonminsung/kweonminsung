@@ -1,6 +1,6 @@
 # Minsung Kweon
 
-#### Student at Sungkyunkwan Univ. College of Computing 12th / [SCG](https://scg.skku.ac.kr/) 25th
+#### Student at Sungkyunkwan Univ. College of Computing 11th / [SCG](https://scg.skku.ac.kr/) 25th
 
 [![Email](https://img.shields.io/badge/email-kevin136583@gmail.com-15a3fa?style=flat)](https://github.com/kweonminsung)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkweonminsung%2Fhit-counter&count_bg=%2315A3FA&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
