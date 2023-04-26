@@ -1,6 +1,6 @@
 # Minsung Kweon
 
-#### Student at Sungkyunkwan Univ. College of Computing 11th / [SCG](https://scg.skku.ac.kr/) 25th / GDSC SKKU
+#### Student at Sungkyunkwan Univ. College of Computing 11th / [SCG](https://scg.skku.ac.kr/) 25th
 
 [![Email](https://img.shields.io/badge/email-kevin136583@gmail.com-15a3fa?style=flat)](https://github.com/kweonminsung)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkweonminsung%2Fhit-counter&count_bg=%2315A3FA&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -10,10 +10,23 @@
 
 ## Interests
 
-- **Backend Development** ([Express](https://expressjs.com/ko/), [NestJS](https://nestjs.com/))
-- **DevOps** ([Docker](https://www.docker.com/), [k8s](https://kubernetes.io/ko/))
+- **Languages**
 
-<br>
+  [![Languages](https://skillicons.dev/icons?i=js,ts,py)](https://github.com/kweonminsung)
+
+- **Backend Development**
+
+  [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,mysql,redis,mongo&perline=4)](https://github.com/kweonminsung)
+
+- **DevOps**
+
+  [![DevOps](https://skillicons.dev/icons?i=docker,k8s,aws)](https://github.com/kweonminsung)
+
+- **Tools**
+
+  [![Tools](https://skillicons.dev/icons?i=vscode,idea,vim,figma)](https://github.com/kweonminsung)
+
+  <br>
 
 ## Stats
 
