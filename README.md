@@ -12,7 +12,7 @@
 
 - **Languages**
 
-  [![Languages](https://skillicons.dev/icons?i=js,ts,py)](https://github.com/kweonminsung)
+  [![Languages](https://skillicons.dev/icons?i=cpp,js,ts,py)](https://github.com/kweonminsung)
 
 - **Backend Development**
 
