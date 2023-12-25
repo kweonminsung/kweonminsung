@@ -40,5 +40,5 @@
     <img src="https://github-readme-stats.vercel.app/api/?username=kweonminsung&show_icons=true"></img>
 </div>
 <div>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kevin6528"></img>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin6528"></img>
 </div>
