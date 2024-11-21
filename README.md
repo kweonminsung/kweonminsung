@@ -10,7 +10,7 @@
 
 - **Languages**
 
-  [![Languages](https://skillicons.dev/icons?i=cpp,js,ts,py,go)](https://github.com/kweonminsung)
+  [![Languages](https://skillicons.dev/icons?i=cpp,js,ts,py,rust,go)](https://github.com/kweonminsung)
 
 - **Backend Development**
 
@@ -23,10 +23,6 @@
 - **Tools**
 
   [![Tools](https://skillicons.dev/icons?i=vscode,idea,vim,figma)](https://github.com/kweonminsung)
-
-- **Current Interests**
-
-  [![Current Interests](https://skillicons.dev/icons?i=rust)](https://github.com/kweonminsung)
 
 ## Stats
 
