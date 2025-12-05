@@ -9,7 +9,7 @@
 
 - **Languages**
 
-  [![Languages](https://skillicons.dev/icons?i=cpp,js,ts,py,rust,go)](https://github.com/kweonminsung)
+  [![Languages](https://skillicons.dev/icons?i=rust,cpp,ts,py,go)](https://github.com/kweonminsung)
 
 - **Backend Development**
 
@@ -19,9 +19,9 @@
 
   [![DevOps](https://skillicons.dev/icons?i=docker,k8s,aws)](https://github.com/kweonminsung)
 
-- **Tools**
+- **Other Interests**
 
-  [![Tools](https://skillicons.dev/icons?i=vscode,idea,vim,figma)](https://github.com/kweonminsung)
+  [![Other Interests](https://skillicons.dev/icons?i=ros)](https://github.com/kweonminsung)
 
 ## Stats
 
@@ -35,5 +35,5 @@
     <img src="https://github-readme-stats.vercel.app/api/?username=kweonminsung&show_icons=true&rank_icon=github" width="400"></img>
 </div>
 <div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin6528"></img>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kevin6528"></img>
 </div>
