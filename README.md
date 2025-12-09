@@ -26,13 +26,13 @@
 ## Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweonminsung&layout=compact&langs_count=8&card_width=400px" width="400"></img>
+    <img src="https://github-readme-stats.vercel.minsung.kr/api/top-langs/?username=kweonminsung&layout=compact&langs_count=8&card_width=400px" width="400"></img>
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kweonminsung&layout=compact&langs_count=8" width="400"></img>
+    <img src="https://github-readme-stats.vercel.minsung.kr/api/wakatime?username=kweonminsung&layout=compact&langs_count=8" width="400"></img>
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/?username=kweonminsung&show_icons=true&rank_icon=github" width="400"></img>
+    <img src="https://github-readme-stats.vercel.minsung.kr/api/?username=kweonminsung&show_icons=true&rank_icon=github" width="400"></img>
 </div>
 <div>
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kevin6528"></img>
