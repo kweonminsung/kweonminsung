@@ -1,6 +1,6 @@
 # Minsung Kweon
 
-#### Undergradate Student at Sungkyunkwan Univ. College of Computing 11th<br>[System Consultant Group](https://scg.skku.ac.kr/) (SKKU) 25th
+#### Undergradate Student at Sungkyunkwan Univ. CSE 11th<br>[System Consultant Group](https://scg.skku.ac.kr/) (SKKU) 25th<br>[Software Mastero](https://www.swmaestro.org/) 17th
 
 [![Email](https://img.shields.io/badge/email-kevin136583@gmail.com-15a3fa?style=flat)](https://github.com/kweonminsung)
 [![GitHub followers](https://img.shields.io/github/followers/kweonminsung?label=Follow&style=social)](https://github.com/kweonminsung/?tab=follow)
