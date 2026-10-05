@@ -2,38 +2,15 @@
 
 #### Undergradate Student at Sungkyunkwan Univ. CSE 11th<br>[System Consultant Group](https://scg.skku.ac.kr/) (SKKU) 25th<br>[Software Maestro](https://www.swmaestro.org/) 17th
 
-[![Email](https://img.shields.io/badge/email-kevin136583@gmail.com-15a3fa?style=flat)](https://github.com/kweonminsung)
-[![GitHub followers](https://img.shields.io/github/followers/kweonminsung?label=Follow&style=social)](https://github.com/kweonminsung/?tab=follow)
-
 ## Interests
 
-- **Languages**
-
-  [![Languages](https://skillicons.dev/icons?i=rust,cpp,ts,py,go)](https://github.com/kweonminsung)
-
-- **Backend Development**
-
-  [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,mysql,redis,mongo&perline=4)](https://github.com/kweonminsung)
-
-- **DevOps**
-
-  [![DevOps](https://skillicons.dev/icons?i=docker,k8s,aws)](https://github.com/kweonminsung)
-
-- **Other Interests**
-
-  [![Other Interests](https://skillicons.dev/icons?i=ros)](https://github.com/kweonminsung)
+  [![Languages](https://skillicons.dev/icons?i=rust,cpp,ts,py,go,nodejs,express,nestjs,fastapi,mysql,redis,mongo,docker,k8s,aws,ros&perline=8)](https://github.com/kweonminsung)
 
 ## Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.minsung.kr/api/top-langs/?username=kweonminsung&layout=compact&langs_count=8&card_width=400px" width="400"></img>
+    <img src="https://github-readme-stats.vercel.minsung.kr/api/top-langs/?username=kweonminsung&layout=compact&langs_count=8&card_width=500px" width="400"></img>
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.minsung.kr/api/wakatime?username=kweonminsung&layout=compact&langs_count=8" width="400"></img>
-</div>
-<div>
-    <img src="https://github-readme-stats.vercel.minsung.kr/api/?username=kweonminsung&show_icons=true&rank_icon=github" width="400"></img>
-</div>
-<div>
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kevin6528"></img>
+    <img src="https://github-readme-stats.vercel.minsung.kr/api/?username=kweonminsung&show_icons=true&rank_icon=github&card_width=500px" width="400"></img>
 </div>
